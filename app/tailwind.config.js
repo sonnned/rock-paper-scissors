@@ -5,6 +5,9 @@ module.exports = {
     extend: {
       colors: {
         border: "hsl(217, 16%, 45%)",
+        score: "hsl(229, 64%, 46%)",
+        dark: "hsl(229, 25%, 31%)",
+        back: "rgba(1,1,1,0.3)",
       },
     },
     backgroundImage: {
